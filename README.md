@@ -10,24 +10,6 @@ Programming Languages: C#, JavaScript, T-SQL
 
 Testing Frameworks: NUnit, xUnit, Fluent Assertions
 
-🛠️ Projects
-
-Omni Loader: Developed support tools and performed unit and integration testing for seamless database migration.
-
-SQL Tran: Enhanced DDL transpilation IDE through deep testing and validation.
-
-AdventureWorks2022 Extended Testing DB: Created a comprehensive SQL testing tool that served as a basis for testing T-SQL implementations in Microsoft Fabric.
-
-Microsoft Fabric: Contributed to the development of this data analytics platform by testing T-SQL implementations and enhancing overall capabilities.
-
-🌱 Solo Projects
-
-Joke Teller | Repo: Developed an interactive app that fetches and reads developer jokes aloud using VoiceRSS API.
-
-Paint Clone | Repo: Built a web-based painting app emulating Microsoft Paint's core features.
-
-Light/Dark Theme Switcher | Repo: Implemented a light/dark mode switcher with engaging UI/UX and third-party asset integration.
-
 📈 GitHub Stats
 
 
@@ -35,5 +17,6 @@ Light/Dark Theme Switcher | Repo: Implemented a light/dark mode switcher with en
 
 
 🌐 Connect With Me
+
 [![Email](https://img.shields.io/badge/Email-YourEmail-red?logo=gmail&logoColor=white)](mailto:markoavram94@outlook.com)
 

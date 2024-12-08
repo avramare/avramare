@@ -32,8 +32,8 @@ Ahoy, fellow tech enthusiasts! I'm a QA/Database Testing Engineer who navigates 
 
 ## 🔬 Professional Highlights
 
-- 🚀 Contributed to Microsoft Fabric development, exploring T-SQL implementations
-- 🛠 Developed advanced database migration support tools
+- 🚀 Contributed to Microsoft Fabric development
+- 🛠 Developed advanced database migration support and testing tools
 - 👥 Mentored summer interns in cutting-edge testing methodologies
 - 🔍 Specialized in complex database transition processes with precision and expertise
 

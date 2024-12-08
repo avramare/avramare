@@ -31,11 +31,11 @@ Who knows where this journey will take me next? ⛵
 
 ### Databases & Cloud Tools
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Transact-SQL](https://img.shields.io/badge/Transact--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
-![Transact-SQL](https://img.shields.io/badge/Transact--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
 ## 🔬 Professional Highlights

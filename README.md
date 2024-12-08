@@ -1,4 +1,5 @@
 Marko Avram | Quality-Driven Database Scientist
+-----------------------------------------------
 
 🛠 Technical Playground
 Core Technologies:

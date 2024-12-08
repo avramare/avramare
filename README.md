@@ -17,7 +17,10 @@ Who knows where this journey will take me next? ⛵
 
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Testing Frameworks
@@ -32,7 +35,8 @@ Who knows where this journey will take me next? ⛵
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
-![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Transact-SQL](https://img.shields.io/badge/Transact--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
 ## 🔬 Professional Highlights
 

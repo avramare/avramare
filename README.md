@@ -1,4 +1,4 @@
-# 🌊 Marko Avram | Tech Navigator & Database Explorer
+# 🌊 Marko Avram | Quality-Driven Database Scientist
 
 ## 👨‍💻 About Me
 

@@ -10,24 +10,18 @@ Databases: SQL Server, PostgreSQL, Oracle, Azure Synapse
 Tools: Microsoft Fabric, Apache Spark, GitHub Actions
 
 🚀 Featured Projects
+
 Terminal Portfolio
 
 Minimalist terminal-themed personal website
-Implemented CI/CD with GitHub Actions
-E2E testing using Playwright
-Deployed on Vercel
 
 Paint Clone
 
 Web-based painting application
-JavaScript-powered drawing tools
-Implemented color selection and image saving capabilities
 
 Joke Teller
 
-Interactive developer joke application
-Leveraged Joke API and VoiceRSS Text-to-Speech
-Demonstrates asynchronous programming techniques
+Interactive nerdy developer joke application
 
 🔬 Professional Highlights
 

@@ -9,8 +9,6 @@ Ahoy, fellow tech enthusiasts! I'm a QA/Database Testing Engineer who navigates 
 - 🤝 Collaborative explorer in database migration solutions
 - 🧪 Expertise in SQL, testing frameworks, and cutting-edge data platforms
 
-# Marko Avram | Quality-Driven Database Scientist
-
 ## 🛠 Technical Playground
 
 ### Languages & Frameworks

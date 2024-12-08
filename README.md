@@ -2,7 +2,11 @@
 
 ## 👨‍💻 About Me
 
-Ahoy, fellow tech enthusiasts! I'm a QA/Database Testing Engineer who navigates the complex seas of modern technology like a DIY sailor. With a passion for databases, testing, and innovative solutions, I transform challenges into opportunities.
+Ahoy, fellow tech enthusiasts! 
+
+I'm a DIY sailor who navigates the complex seas of modern technology. With a passion for databases, testing, and innovative solutions, I've been on this ongoing quest for over three years now. 
+
+Who knows where this journey will take me next? ⛵
 
 ### 🚢 Professional Compass
 - 🔬 QA/Database Testing Engineer at Spectral Core (2023-2024)

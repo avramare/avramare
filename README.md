@@ -1,5 +1,3 @@
-# 🌊 Marko Avram | Quality-Driven Database Scientist
-
 ## 👨‍💻 About Me
 
 Ahoy, fellow tech enthusiasts! 

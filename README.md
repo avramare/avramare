@@ -49,7 +49,8 @@ Who knows where this journey will take me next? ⛵
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:markoavram94@outlook.com)
 ![Location](https://img.shields.io/badge/Sarajevo-Bosnia%20and%20Herzegovina-blue?style=flat-square&logo=google-maps&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarkoAvram94&style=flat-square&color=blue)
-
 **Transforming data challenges into elegant solutions, one query at a time.**
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=MarkoAvram94&style=flat-square&color=blue)
 

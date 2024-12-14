@@ -1,4 +1,5 @@
 ## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=MarkoAvram94&style=flat-square&color=blue)
 
 Ahoy, fellow tech enthusiasts! 
 
@@ -52,5 +53,4 @@ Who knows where this journey will take me next? ⛵
 **Transforming data challenges into elegant solutions, one query at a time.**
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarkoAvram94&style=flat-square&color=blue)
 

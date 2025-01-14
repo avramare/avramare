@@ -11,7 +11,7 @@ Who knows where this journey will take me next? ⛵
 - 🔬 QA/Database Testing Engineer at Spectral Core (2023-2024)
 - 🎭 Playwright Director: Scripting Test Stories Across Digital Stages
 - 🧪 Expertise in SQL, testing frameworks, and cutting-edge data platforms
-- 🤝 Collaborative explorer in database migration solutions
+- 🤝 Collaborative explorer, feel free to contact me
 
 ## 🛠 Technical Playground
 

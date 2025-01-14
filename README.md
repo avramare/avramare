@@ -42,10 +42,10 @@ Who knows where this journey will take me next? ⛵
 
 ## 🔬 Professional Highlights
 
+- 🔍 Specialized in Manual and Automated testing techniques
 - 🚀 Contributed to Microsoft Fabric development
 - 🛠 Developed advanced database migration support and testing tools
 - 👥 Mentored summer interns in cutting-edge testing methodologies
-- 🔍 Specialized in complex database transition processes with precision and expertise
 
 ## 📬 Let's Connect
 

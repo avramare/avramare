@@ -3,15 +3,11 @@
 
 Ahoy, fellow tech enthusiasts! 
 
-I'm a DIY sailor who navigates the complex seas of modern technology. With a passion for databases, testing, and innovative solutions, I've been on this ongoing quest for over three years now. 
+I'm a DIY sailor navigating the complex seas of modern technology. I've been on this ongoing quest for over three years now, wonder where it will get me? ⛵
 
-Who knows where this journey will take me next? ⛵
 
-### 🚢 Professional Compass
-- 🔬 QA/Database Testing Engineer at Spectral Core (2023-2024)
-- 🎭 Playwright Director: Scripting Test Stories Across Digital Stages
-- 🧪 Expertise in SQL, testing frameworks, and cutting-edge data platforms
-- 🤝 Collaborative explorer, feel free to contact me
+
+
 
 ## 🛠 Technical Playground
 
@@ -39,13 +35,6 @@ Who knows where this journey will take me next? ⛵
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6AA84F?style=flat-square&logo=microsoft&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-
-## 🔬 Professional Highlights
-
-- 🔍 Specialized in Manual and Automated testing techniques
-- 🚀 Contributed to Microsoft Fabric development
-- 🛠 Developed advanced database migration support and testing tools
-- 👥 Mentored summer interns in cutting-edge testing methodologies
 
 ## 📬 Let's Connect
 

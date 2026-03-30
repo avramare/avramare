@@ -14,11 +14,11 @@
 
 ### About
 
-Hi, I'm Marko — a QA Engineer based in Sarajevo whose job is essentially to break things for a living, and somehow get paid for it.
+Hi, I'm Marko — a QA Engineer based in Sarajevo whose job is essentially to break things for a living, and somehow get paid for it.I talk to software until it confesses its bugs, and trust me, they always do.
 
 ⌖ **Location** &nbsp; Sarajevo, BiH <br/>
 ⌗ **Experience** &nbsp; 3+ years <br/>
-⟳ **Learning** &nbsp; Python
+⟳ **Learning** &nbsp; Low level autoamtions
 
 ✦ **Fun fact** &nbsp; 🐛🔍✅
 
@@ -32,7 +32,7 @@ Hi, I'm Marko — a QA Engineer based in Sarajevo whose job is essentially to br
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend"/>
 
 **Backend & Databases**
 
@@ -50,35 +50,15 @@ Hi, I'm Marko — a QA Engineer based in Sarajevo whose job is essentially to br
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=avramare&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avramare&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=avramare&theme=aura&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-### Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avramare&theme=tokyonight&column=6&no-frame=true&margin-w=8" alt="trophies"/></a>
-
-</div>
-
----
-
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avramare&theme=aura&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avramare&theme=synthwave&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
 
 </div>
 

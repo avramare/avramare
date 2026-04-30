@@ -18,9 +18,7 @@ Hi, I'm Marko — a QA Engineer whose job is essentially to break things for a l
 
 ⌖ **Location** &nbsp; - Sarajevo, BiH <br/>
 ⌗ **Experience** &nbsp; - 4 years <br/>
-⟳ **Learning** &nbsp; - Python low level automation, discord botting and web scraping
-
-✦ **Fun Fact** &nbsp; - Most people spend years climbing the corporate ladder before landing a collaboration with global tech giants. This person? Walked through the door at Spectral Core voluntarily, and within the very first year was already working alongside one of the biggest tech giants on the planet. Apparently, some people don't wait for opportunity to knock... they just show up and Microsoft opens the door itself. 
+⟳ **Learning** &nbsp; - Python low level automation, discord botting and web scraping 
 
 ---
 

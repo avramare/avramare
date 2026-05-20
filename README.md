@@ -10,7 +10,6 @@
 
 </div>
 
-## 🧑🏻‍💻 About
 
 Hi, I'm Marko - a Medior QA Engineer and DIY adventurer in realm of technology.
 
@@ -21,7 +20,7 @@ I believe the future of QA is not just automation — it's **AI-driven decision 
 
 ---
 
-### 🖳 Languages
+###  🖳 Languages and automation stack 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -35,11 +34,7 @@ I believe the future of QA is not just automation — it's **AI-driven decision 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
-### 🛠 Automation Stack 
-
-### 🧪 Test Automation
+### 🧪 Testing Tools
 - Playwright
 - Cypress
 - API Testing  
@@ -52,11 +47,10 @@ I believe the future of QA is not just automation — it's **AI-driven decision 
 - GitHub Copilot  
 - Claude Design
 
-###
-
 ---
 
-## 🗁 Personal Website  
+### 🗁 Personal Website
+
 ### ➜ https://avramare.is-not-a.dev/
 
 ---

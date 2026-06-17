@@ -34,18 +34,21 @@ I believe the future of QA is not just automation — it's **AI-driven decision 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-### 🧪 Testing Tools
+### Testing Tools
 - Playwright
 - Cypress
+- k6
 - API Testing  
 - End-to-End Automation Frameworks
+- Manual testing
 
-### 🤖 LLM Ecosystem
+### LLM Ecosystem
 - Claude Code
 - Playwright MCP (Model Context Protocol)  
 - Playwright Agent  
-- GitHub Copilot  
 - Claude Design
+- Codex
+- OpenAI
 
 ---
 

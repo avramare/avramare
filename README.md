@@ -14,7 +14,7 @@
 ## `$ whoami`
 
 ```yaml
-name        : Marko  Avram
+name        : Marko Avram
 title       : Quality Engineering Architect
 location    : Bosnia and Herzegovina
 
@@ -69,7 +69,6 @@ open for    : Quality Architecture · Platform Reliability · Engineering Leader
 
 ---
 
-### Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avramare&theme=rogue&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

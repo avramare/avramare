@@ -29,7 +29,7 @@ specialization:
   - CI/CD quality gates & release pipelines
 
 domains     : FinTech · Transporation · Healthcare · SaaS · eCommerce · Gaming
-currently   : Building → **QA tooling** · **LLM-powered testing ecosystems** · **Discord automation agents**
+currently   : Building → QA tooling · LLM-powered testing ecosystems · Discord automation agents
 open for    : Quality Architecture · Platform Reliability · Engineering Leadership
 ```
 

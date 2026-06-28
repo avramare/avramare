@@ -15,7 +15,7 @@
 
 ```yaml
 name        : Marko Avram
-title       : Quality Engineering Architect
+title       : SDET - Software Developer Engineer in Test
 location    : Bosnia and Herzegovina
 
 philosophy:
